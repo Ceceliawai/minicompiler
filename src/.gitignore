@@ -1,0 +1,7 @@
+lexical.cpp
+syntax.cpp
+syntax.hpp
+*.exe
+.idea
+CMakeLists.txt
+cmake-build-debug

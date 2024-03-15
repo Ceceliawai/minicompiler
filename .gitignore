@@ -1,0 +1,7 @@
+GitHelpFile.md
+.vscode
+CMakeLists.txt
+.idea/
+cmake-build-debug/
+build/
+test/
